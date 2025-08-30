@@ -1,4 +1,4 @@
-create database ola
+create database ola;
 use ola;
 
 select * from booking;
